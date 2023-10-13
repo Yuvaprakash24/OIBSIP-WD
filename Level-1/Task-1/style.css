@@ -1,0 +1,12 @@
+.position1{
+    position: relative;
+}
+.position2{
+    position: absolute;
+    top: 70%;
+    left: 25%;
+    text-align: center;
+}
+.bm{
+    background-color: cornflowerblue;
+}
